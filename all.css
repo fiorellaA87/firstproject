@@ -1,0 +1,216 @@
+html {
+  font-family: serif;
+}
+
+h1, a {
+  color: seagreen;
+}
+
+h2 {
+  color: #999966;
+}
+
+h2, a{
+  color: saddlebrown;
+  text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+
+}
+
+
+
+header #title {
+  padding: 10px;
+  text-align: center;
+  font-size: 70px;
+}
+
+footer{
+  background-color: darkseagreen;
+  padding: 40px;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  margin-top: 5%;
+}
+
+article p {
+  text-align: justify;
+}
+
+article{
+  display: inline;
+}
+
+p{
+  font-size: 20px;
+  color: darkgreen;
+  text-align: justify;
+}
+
+li{
+  font-size: 20px;
+  position: relative;
+}
+
+figcaption{
+  display: inline;
+  caption-side: bottom;
+  font-size: 10px;
+  margin-left: 2%
+}
+
+figcaption2{
+  float: right;
+  margin-right: 4%
+}
+#menu {
+  display: inline;
+}
+
+#menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: floralwhite;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#menu li {
+  position: relative;
+  padding-left: 17%;
+  display: inline;
+  font-size: 25px;
+
+}
+
+#about_page {
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  color: seagreen;
+  padding: 20px;
+  background-color: floralwhite;
+  text-align: center;
+  margin: 25px;
+  margin-top: 3%;
+  position: relative;
+}
+
+#about_page h1{
+  color: seagreen;
+}
+
+#references_page{
+  align-items: center;
+  text-align: -webkit-auto;
+  padding: 20px;
+  background-color: floralwhite;
+  font-size: 20px;
+  color: seagreen;
+  margin: 25px;
+  margin-top: 5%;
+  position: relative;
+
+}
+
+#references_page h1{
+  color: seagreen;
+  text-align: center;
+}
+
+.pop_recent{
+  background-color: peachpuff;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 3%;
+  margin: 2%;
+  position: relative;
+}
+
+#article-title{
+  color: mediumseagreen;
+  font-size: 30px;
+}
+
+#rec_box{
+  width: 23%;
+  background-color: peachpuff;
+  text-align: left;
+  text-indent: 5px;
+  float: right;
+  margin-right: 2.5%
+}
+
+#left{
+  float: left;
+  width: 74%;
+}
+
+#right{
+  width: 26%;
+  float: right;
+}
+
+#leaf_logo{
+  float: left;
+}
+
+#vegan_logo{
+  float: right;
+}
+
+#mousse{
+  padding: 1%;
+  margin-right: 1%;
+  display: inline-block;
+  height: 500px;
+}
+
+#yogavid{
+  position: relative;
+  padding-left: 8%;
+  width: 800px;
+  height: 600px;
+}
+
+#subscribe{
+  background-color: floralwhite;
+  font-size: 20px;
+  color: seagreen;
+  margin: 25px;
+  text-align: center;
+  outline: 0;
+}
+
+#submit_button{
+  background-color: seagreen;
+}
+
+#sub_mess{
+  background-color: floralwhite;
+  font-size: 25px;
+  color: seagreen;
+  margin: 25px;
+  text-align: center;
+  padding: 20px;
+}
+
+#slides img{
+  height: 600px;
+  margin: 2%;
+  width:45%;
+  display: inline-block;
+}
+
+#slides p{
+  display: table-cell;
+  margin: 0px;
+  color: black;
+}
